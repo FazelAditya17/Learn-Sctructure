@@ -1,1 +1,1 @@
-# Learn-Sctructure
+# Learn-Structure
